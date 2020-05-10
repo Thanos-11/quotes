@@ -10,6 +10,10 @@ export class GoalDetailComponent implements OnInit {
   @Input() goal: Goal;
   @Output() isComplete = new EventEmitter<boolean>();
 
+  goalDelete(complete: boolean) {
+    this.isComplete.emit(complete);
+  }
+
   goalComplete(complete: boolean) {
     this.isComplete.emit(complete);
   }
