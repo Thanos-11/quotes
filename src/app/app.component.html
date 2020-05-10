@@ -1,4 +1,8 @@
 <div>
   <h1>QUOTES</h1>
-  <p>Quote is {{ quote }}</p>
+  <ul>
+    <li *ngFor="let goal of goals">
+      {{ goal }}
+    </li>
+  </ul>
 </div>
