@@ -12,7 +12,7 @@ export class GoalComponent implements OnInit {
       1,
       '"Believe to achieve or you never will"',
       'Quote by Aubrey Drake',
-      new Date(2020, 3, 14)
+      new Date(2020, 2, 27)
     ),
 
     new Goal(
@@ -26,7 +26,7 @@ export class GoalComponent implements OnInit {
       3,
       '"You know its real when you are who you think you are"',
       'Quote by A Drake Graham',
-      new Date(2022, 1, 12)
+      new Date(2018, 1, 12)
     ),
 
     new Goal(
@@ -38,7 +38,7 @@ export class GoalComponent implements OnInit {
 
     new Goal(
       5,
-      '"I would prolly self destruct if i ever lose but i never do"',
+      '"I would probably self destruct if i ever lose but i never do"',
       'Quote by Aubrey Drake"',
       new Date(2019, 2, 14)
     ),
@@ -47,7 +47,7 @@ export class GoalComponent implements OnInit {
       6,
       '"Tables turn, bridges burn, you live and learn"',
       'Quote by Aubrey Drake Graham',
-      new Date(2030, 3, 14)
+      new Date(2009, 7, 14)
     ),
   ];
 
