@@ -1,10 +1,19 @@
-# Goals
+# Goal
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+
+#### A web application for surfing and adding new quotes
+
+## Screenshots
+![Screenshot_9](https://user-images.githubusercontent.com/62003825/81697982-1520b580-946e-11ea-97cd-3e7f461dec63.png)
+
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Support and contact details
+My GitHub link is https://github.com/Thanos-11 ,Email :britcommentator@gmail.com
 
 ## Code scaffolding
 
@@ -25,3 +34,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
