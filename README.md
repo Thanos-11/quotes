@@ -9,6 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Future Development plans
 i plan on integrating the upvoting and downvote buttons for a better user environment
+Also use of a background image
 
 ## Development server
 
@@ -24,6 +25,9 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Known Bugs
+the background image is not filling up the entire body instead it was displaying beneath the quotes and form
 
 ## Running unit tests
 
