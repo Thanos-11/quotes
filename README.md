@@ -7,6 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Screenshots
 ![Screenshot_9](https://user-images.githubusercontent.com/62003825/81697982-1520b580-946e-11ea-97cd-3e7f461dec63.png)
 
+## Future Development plans
+i plan on integrating the upvoting and downvote buttons for a better user environment
 
 ## Development server
 
